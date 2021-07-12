@@ -13,7 +13,7 @@
 
 ## Documentation
 Frontend: #
-Background: # 
+Background: https://github.com/ChristopherLandaverde/playground/blob/main/zamn/specs.md
 
 ## Future Plans
 
