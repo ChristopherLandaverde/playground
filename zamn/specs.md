@@ -75,12 +75,20 @@ wrapt==1.12.1
 # API EndPoints:
 In this RESTful API, our endpoints will define the structure of the API and how users access their data from our application using HTTP Methods - GET, POST,PUT DELETE.
 
-In this case we have three resources, brainstorms, inverts, and cubing. and /{resource}/:id
+In this case we have three ```resources, brainstorms, inverts, and cubing```. and /{resource}/:id
 
 
 # Use
 
-Example API response for idea:
+Example API response for brainstorms:
+
+| ENDPOINT        | HTTP METHOD | RESULT                   |
+|-----------------|-------------|--------------------------|
+| brainstorms     | GET         | Gets all BrainStorm      |
+| brainstorms/:id | GET         | Gets singular Brainstorm |
+| brainstorms     | POST        | Creates a Brainstorm     |
+| brainstorms/:id | PUT         | Edits a Brainstorm       |
+| brainstorms/:id | DELETE      | Deletes a BrainStorm     |
 
 Only authenticated users can use the API service, for that reason if we try this:
 ```
