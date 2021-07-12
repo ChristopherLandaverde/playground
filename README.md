@@ -12,7 +12,7 @@
 - User Session management and navigation with Vuex and Vue Router.
 
 ## Specs
-Frontend: 
+Frontend:  https://github.com/ChristopherLandaverde/playground/tree/main/front
 
 Background: https://github.com/ChristopherLandaverde/playground/blob/main/zamn/specs.md
 
