@@ -4,10 +4,10 @@
 </p>
 <p align="center"><strong>Playground is vue application that allows for users to be able <br>play around with their ideas with cubing, inversion, and brainstorming</strong></p>
 
-##Features
+## Features
 
-##Documentation
+## Documentation
 
-##Future Plans
+## Future Plans
 
-##Example View 
+## Example View 
