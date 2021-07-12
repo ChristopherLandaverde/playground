@@ -24,15 +24,15 @@ Background: https://github.com/ChristopherLandaverde/playground/tree/main/zamn
 
 # Screenshots 
 
-### Dashboard
+### Brain Idea Page 
 <img width="1183" alt="Screen Shot 2021-07-12 at 5 09 17 PM" src="https://user-images.githubusercontent.com/22153509/125356396-26947480-e334-11eb-8e4e-823d25b59e42.png">
 
-### Brain Idea PlayGround
+### Edit Unique Brain Idea
 <img width="1184" alt="Screen Shot 2021-07-12 at 5 09 27 PM" src="https://user-images.githubusercontent.com/22153509/125356402-298f6500-e334-11eb-8815-60eb77ea0f14.png">
 
-# Unique ID Brain Idea
+### Edit Brain Idea
 <img width="1180" alt="Screen Shot 2021-07-12 at 5 09 46 PM" src="https://user-images.githubusercontent.com/22153509/125356407-2ac09200-e334-11eb-903c-c7d5296d3dfb.png">
 
-# Edit Brain Idea
+### Dashboard
 <img width="1184" alt="Screen Shot 2021-07-12 at 5 09 06 PM" src="https://user-images.githubusercontent.com/22153509/125356383-23998400-e334-11eb-9357-9f9d56f72004.png">
 
