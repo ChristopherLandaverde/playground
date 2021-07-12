@@ -27,7 +27,7 @@ pip install markdown
 pip install django-filter  
 ```
 # Requirements.
-
+```
 appdirs==1.4.4
 astroid==2.4.2
 attrs==20.3.0
