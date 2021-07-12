@@ -27,7 +27,7 @@ Background: https://github.com/ChristopherLandaverde/playground/tree/main/zamn
 ### Brain Idea Page 
 <img width="1183" alt="Screen Shot 2021-07-12 at 5 09 17 PM" src="https://user-images.githubusercontent.com/22153509/125356396-26947480-e334-11eb-8e4e-823d25b59e42.png">
 
-### Edit Unique Brain Idea
+###  Unique Brain Idea Page
 <img width="1184" alt="Screen Shot 2021-07-12 at 5 09 27 PM" src="https://user-images.githubusercontent.com/22153509/125356402-298f6500-e334-11eb-8815-60eb77ea0f14.png">
 
 ### Edit Brain Idea
