@@ -14,7 +14,7 @@
 ## Specs
 Frontend:  https://github.com/ChristopherLandaverde/playground/tree/main/front
 
-Background: https://github.com/ChristopherLandaverde/playground/blob/main/zamn/specs.md
+Background: https://github.com/ChristopherLandaverde/playground/tree/main/zamn
 
 ## Future Plans
 
