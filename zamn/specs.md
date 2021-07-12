@@ -73,6 +73,38 @@ wrapt==1.12.1
 
 
 # API EndPoints:
+In this RESTful API, our endpoints will define the structure of the API and how users access their data from our application using HTTP Methods - GET, POST,PUT DELETE.
+
+In this case we have three resources, brainstorms, inverts, and cubing. and /{resource}/:id
 
 
-# Example API Response
+# Use
+
+Example API response for idea:
+
+Only authenticated users can use the API service, for that reason if we try this:
+```
+http  http://127.0.0.1:8000/api/v1/brainstorms/
+```
+you would get
+```
+{
+    "detail": "Authentication credentials were not provided."
+}
+
+```
+
+Now to access it with credentials:
+```
+http http://127.0.0.1:8000/api/v1/brainstorms/27 "Authorization: 94301d621abb1ce2feb8b8e8ba2bfc8c9867a673"
+```
+you would get the brainstorm with the idea of 27
+```
+{"id":27,"goals":"To be a doctor","agenda":"To not bea dctor","outcomes":"To hate a doctor","decisions":"Don't be a doctor"}
+```
+
+Restrictions:
+- The Brainstorms, inverisons, and cubing playgrounds are only assoicated with the creator.
+- The API doesn't allow unauthenticated results.
+- Only Authenticated user can create palygorunds
+- The API doesn't allow for unauthenticated results. 
