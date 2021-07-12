@@ -11,8 +11,9 @@
 - A user can has the ability to CRUD an application
 - User Session management and navigation with Vuex and Vue Router.
 
-## Documentation
-Frontend: #
+## Specs
+Frontend: 
+
 Background: https://github.com/ChristopherLandaverde/playground/blob/main/zamn/specs.md
 
 ## Future Plans
